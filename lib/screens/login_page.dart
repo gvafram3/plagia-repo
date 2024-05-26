@@ -5,7 +5,7 @@ import 'package:plag_app/widgets/custom_textfield.dart';
 import 'package:plag_app/screens/sign_up_page.dart';
 
 import '../widgets/build_container.dart';
-import 'welcome_screen.dart';
+import 'welcome_page.dart';
 
 class LoginPage extends StatefulWidget {
   const LoginPage({super.key});
